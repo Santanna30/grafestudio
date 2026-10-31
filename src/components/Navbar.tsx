@@ -3,10 +3,9 @@ import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 
 const links = [
-  { label: "Serviços", href: "#servicos" },
-  { label: "Portfólio", href: "#portfolio" },
-  { label: "Tecnologia", href: "#tech" },
-  { label: "Contato", href: "#contato" },
+  { label: "Vídeo Empresarial", href: "#servicos" },
+  { label: "Foto Corporativa", href: "#portfolio" },
+  { label: "Drone Empresarial", href: "#tech" },
 ];
 
 const Navbar = () => {
